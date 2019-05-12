@@ -22,5 +22,5 @@ dependencies:
   - werkzeug=0.15.2=py_0
   - wheel=0.33.1=py36_0
   - wincertstore=0.2=py36h7fe50ca_0
-prefix: C:\Users\Majorperfect\Anaconda2\envs\env2
+prefix: D:\Users\Anaconda2\envs\env2
 
