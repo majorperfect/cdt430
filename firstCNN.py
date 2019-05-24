@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from __future__ import print_function
 import numpy as np
 from random import shuffle
@@ -47,4 +48,6 @@ optimizer = Adam(lr=1e-3)
 
 model.compile(optimizer = optimizer, loss= 'mean_squared_error', metrics=['accuracy'])
 model.fit(x= tr_spec_data, y= tr_vectorA_data, epochs=500, batch_size=100)
+
+
 model.summary()
